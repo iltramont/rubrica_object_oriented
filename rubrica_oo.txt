@@ -1,0 +1,11 @@
+U002|Daniele|Toti|Via Musei 41|25121|Brescia|3331234567|daniele.toti@unicatt.it
+U010|Domenico|Arcuri|genio|-----|miliardario|play...|ah no questo era un altro
+U009|Dominic|Toretto|La strada|-----|La famigglliaa|-----|unamarciainpiu@canotta.sexy
+U004|Enrico|Barbierato|via Musei 41|25121|Brescia|3349876451|enrico.barbierato@unicatt.it
+U003|Gerry|Scotti|Canale 5 ore 19:00|-----|The Waaaaaaall!!|1'000'000|unodei.borghi@piubelli.ditaaalia
+U007|Laura|Tramonti|^---^|-----|Bovezzo|^---^|-----
+U001|Luca|Tramonti|Via M.Mastroianni|25086|Rezzato_city|3664433999|luca.tramonti01@icatt.it
+U000|Luca|Tramonti|Via dei Prati|25073|Bovezzo_city|3664136999|luca.tramonti01@icatt.it
+U006|Marco|Della Vedova|via Musei 41|25121|Brescia|3309876543|marco.dellavedova@unicatt.it
+U008|Peter|Parker|Casa di zia May|-----|New York|-----|amichevole.spiderman@quartiere.com
+U005|Sara|Tramonti|Via M.Mastroianni|--|Rezzato_city|-----|-----
